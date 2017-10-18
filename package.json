@@ -1,0 +1,20 @@
+{
+  "name": "avataka-node",
+  "version": "1.0.0",
+  "description": "testing npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avataka9/avataka-node.git"
+  },
+  "author": "avataka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avataka9/avataka-node/issues"
+  },
+  "homepage": "https://github.com/avataka9/avataka-node#readme"
+}
